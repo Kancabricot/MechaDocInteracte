@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/MyProject5/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/MyProject5/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/MyProject5/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/MyProject5/Content/TextDisplay.uasset",
+				"D:/MyProject5/Content/BT_Interactable.uasset",
+				"D:/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JY/7ZY0IRXWBR7J8DSA9V36DD.uasset",
+				"D:/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WV/XANRBSVM31ZL8MUJEM7FYV.uasset",
+				"D:/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FD/W7SLH4LJDM5KHLZ91FF6YW.uasset",
+				"D:/MyProject5/Content/Fiche.uasset",
+				"D:/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SE/J3FAUDEF6YQX0MJ6L7YZCT.uasset",
+				"D:/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PP/LYI3PYEO2D20RVVCLMNDRL.uasset",
+				"D:/MyProject5/Content/M_AfficheText_Inst.uasset",
+				"D:/MyProject5/Content/istockphoto-1176851145-1024x1024.uasset",
+				"D:/MyProject5/Content/M_Texte2.uasset",
+				"D:/MyProject5/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/M_Text.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/NewWidgetBlueprint.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/13725207-strange-text-texture.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ML/ZAY4BLIVRMDQCAG60EF9B2.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/Fiche.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FD/W7SLH4LJDM5KHLZ91FF6YW.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Input/Actions/IA_Interacrte.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/M_AfficheText.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/TextDisplay.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/FicheRenderTrager.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/M_AfficheText_Inst.uasset",
+				"C:/Users/os/Documents/Unreal Projects/MyProject5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}
